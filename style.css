@@ -1,0 +1,73 @@
+body {
+    
+    background-color: #000080;
+    background-image: url('background.png');
+    background-repeat: repeat;
+
+    
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 14px;
+    color: #00FF00;
+    
+    
+    cursor: url('Fortnite.png'), auto; 
+    
+    
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+
+#main-container {
+    width: 90%;
+    margin: 10px auto; 
+    padding: 15px; 
+    background-color: #C0C0C0;
+    box-shadow: 50px, black;
+    border: 5px outset #FF00FF;
+    color: #000000;
+}
+
+h1 {
+    color: #FF0000;
+    text-align: center;
+    
+    text-shadow: 2px 2px #0000FF;
+    font-size: 2.5em;
+    
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #800080;
+    border-bottom: 2px solid #000000;
+    padding-top: 15px;
+}
+
+
+img {
+    display: block;
+    margin: 10px auto;
+    
+    border: 3px dashed #FF00FF; 
+}
+
+a {
+    color: #0000FF;
+    text-decoration: underline;
+    font-size: 1.1em;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 15px auto;
+}
+
+td {
+    border: 1px solid #000000;
+    padding: 8px;
+}
